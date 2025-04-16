@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
 
-
 void gotoxy(int x, int y) {
 
     // 콘솔에서 커서를 (x, y) 위치로 이동하는 함수
